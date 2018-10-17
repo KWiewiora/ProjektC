@@ -1,3 +1,4 @@
 # ProjektC
 
-Utworzenie sieci neuronowej (zamysł pierwotny jest zabawa z ragdollami 3D korzystając z programu Unity).
+Stworzenie aplikacji webowej za pomocą ASP.NET
+W grę wchodzi połączenie z bazą danych oraz skrypty backendowe
