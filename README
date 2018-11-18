@@ -1,0 +1,4 @@
+Projekt opiera się na asp.net Core napisanych w C#.
+Będzie to kalendarz, dostosowany do potrzeb kosmetyczki, która chcę mieć zorganizowaną pracę.
+Klienci będą się logować i zapisywać w kalendarzu na różne rzeczy. Będą widzieli które dni i godziny są dostępne, a które nie.
+Kosmetyczka jako admin będzie dzięki temu wiedziała kto kiedy jest, na którą godzinę i nie będzie musiała umawiać klientów telefonicznie.
